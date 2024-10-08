@@ -27,7 +27,7 @@
 <h2 align="left">🌐 Conecte-se comigo</h2>
 <p>
   <a href="https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a> | 
-  <a href="[https://twitter.com/seu-usuario](https://www.instagram.com/julio_araujokkj/)" target="_blank">Instagram</a>
+  <a href="https://www.instagram.com/julio_araujokkj/" target="_blank">Instagram</a>
 </p>
 
 <p align="center">Agradeço pela visita e espero que possamos aprender juntos! 🚀</p>
