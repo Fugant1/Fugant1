@@ -1,16 +1,14 @@
-## Hi there 👋
+##Data Scientist
+#👋 Hi! My name is Julio Fugati!
 
-<!--
-**Fugant1/Fugant1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍁 **Skills:**  
+[Python] [C] [SQL] [Java] [R] [C++]
 
-Here are some ideas to get you started:
+✨ **Usage of languages on projects**  
+https://github-readme-stats.vercel.app/api/top-langs/?username=Fugant1&layout=compact&langs_count=6&theme=dark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋‍♂️ **About me**  
+ I am a Data Science student at **University of São Paulo (USP)**, since I started the course, I have been passionate about machine learning and data prediction.
+
+📩 **Ways of contact**  
+🔗 [[LinkedIn](https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305/)] | 📧 [juliocesarfuganti@gmail.com] 
