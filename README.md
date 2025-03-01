@@ -15,4 +15,4 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 💬 **Ways of contact**  
-[[LinkedIn](https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305/)] | [juliocesarfuganti@gmail.com](mailto:juliocesarfuganti@gmail.com)
+[LinkedIn(https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305/)] | [juliocesarfuganti@gmail.com](mailto:juliocesarfuganti@gmail.com)
