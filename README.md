@@ -3,7 +3,8 @@
 **👋 Hi! My name is Julio Fugati!**
 
 🙋‍♂️ **About me**  
- I am a Data Science student at **University of São Paulo (USP)**, since I started the course, I have been passionate about machine learning and data prediction.
+ I am a Data Science student at **University of São Paulo (USP)**, Since I started the course, I have been passionate about machine learning and data prediction.
+ I am looking for opportunities in data science and software development.
  
 🍁 **Skills:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,4 +15,4 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 💬 **Ways of contact**  
-[[LinkedIn](https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305/)] | [juliocesarfuganti@gmail.com] 
+[[LinkedIn](https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305/)] | [juliocesarfuganti@gmail.com](mailto:juliocesarfuganti@gmail.com)
