@@ -14,7 +14,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-4479A1?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/html-4479A1?style=for-the-badge&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=html&logoColor=white)
 
 💬 **Ways of contact**  
 [[LinkedIn](https://www.linkedin.com/in/julio-cesar-alves-araujo-fuganti-b17424305/)] | [juliocesarfuganti@@@gmail.com]
