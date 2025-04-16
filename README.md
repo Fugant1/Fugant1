@@ -1,8 +1,8 @@
-## 👨‍💻 Data Scientist | Julio Fugati
+## 👨‍💻 Data Scientist | Julio Fuganti
 
 ### 👋 Hello! Welcome to my GitHub profile!
 
-I'm Julio Fugati, a Data Science student at the **University of São Paulo (USP)**. I have solid experience in **machine learning**, especially focused on **Large Language Models (LLMs)**, data science, and software development.  
+I'm Julio Fuganti, a Data Science student at the **University of São Paulo (USP)**. I have solid experience in **machine learning**, especially focused on **Large Language Models (LLMs)**, data science, and software development.  
 Currently, I primarily work with **Python** and **C** in both academic and personal projects. I'm always seeking new challenges and opportunities to apply and grow my knowledge.
 
 ---
