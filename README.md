@@ -37,8 +37,6 @@ Currently, I primarily work with **Python** and **C** in both academic and perso
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white)
 
-[![Snorlax](https://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif)](https://pokemondb.net/pokedex/snorlax)
-
 ---
 
 ### 📫 Contact
