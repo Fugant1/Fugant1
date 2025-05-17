@@ -47,5 +47,4 @@ Currently, I primarily work with **Python** and **C** in both academic and perso
 ---
 
 > ⭐️ Feel free to explore my public repositories and reach out for collaborations or opportunities!
->
 > [![Flutter Mane](https://img.pokemondb.net/sprites/scarlet-violet/normal/flutter-mane.png)](https://pokemondb.net/pokedex/flutter-mane)
