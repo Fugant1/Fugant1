@@ -46,4 +46,4 @@ Currently, I primarily work with **Python** and **C** in both academic and perso
 
 ---
 
-> ⭐️ Feel free to explore my public repositories and reach out for collaborations or opportunities!
+> ⭐️ Unfortunately most of my repositories aren't public, but feel free to explore my public repos and reach out for collaborations or opportunities!
