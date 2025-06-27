@@ -47,3 +47,5 @@ Currently, I primarily work with **Python** and **C** in both academic and perso
 ---
 
 > ⭐️ Unfortunately most of my repositories aren't public, but feel free to explore my public repos and reach out for collaborations or opportunities!
+
+[![Charizard](https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif)](https://pokemondb.net/pokedex/charizard)
