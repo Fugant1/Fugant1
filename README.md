@@ -12,7 +12,7 @@ Currently, I primarily work with **Python** and **C** in both academic and perso
 - 🎓 Data Science student at **USP**
 - 🤖 Passionate about **artificial intelligence**, **generative models**, and **deep learning**
 - 🧪 Hands-on experience with **LLMs**, fine-tuning, and model evaluation
-- 🚀 Open to opportunities in **data science**, **data engineering**, and **AI development**
+- 🚀 Open to opportunities in **data science**, **data analysis**, and **AI development**
 
 ---
 
