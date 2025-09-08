@@ -4,7 +4,7 @@
 
 I'm Julio Fuganti, a Data Science student at **USP** passionate about **AI**, **LLMs**, and solving real-world problems with data.  
 I have hands-on experience with **machine learning**, **NLP**, and **MLOps**, working on both academic and freelance projects.  
-Currently, I develop solutions using **Python**, **LangChain**, and **FastAPI**, focusing on deploying scalable AI applications.
+Currently, I develop solutions using **Python**, **LangGraph**, and **FastAPI**, focusing on deploying scalable AI applications.
 
 ---
 
