@@ -29,10 +29,10 @@ Currently, I develop solutions using **Python**, **LangGraph**, and **FastAPI**,
 
 ### 🛠️ Technologies & Tools
 
-**Languages:** Python, C, R, C++, Java, JS, SQL  
-**Libraries/Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph, Scikit-learn, Pandas, NumPy, Matplotlib, FastAPI, Flask, FAISS
-**MLOps & Tools:** MLflow, Docker, Git, GitHub Actions  
-**Cloud & Platforms:** AWS, Azure, PostgreSQL
+- **Languages:** Python, C, R, C++, Java, JS, SQL  
+- **Libraries/Frameworks:** PyTorch, TensorFlow, LangChain, LangGraph, Scikit-learn, Pandas, NumPy, Matplotlib, FastAPI, Flask, FAISS
+- **MLOps & Tools:** MLflow, Docker, Git, GitHub Actions  
+- **Cloud & Platforms:** AWS, Azure, PostgreSQL
 
 ---
 
