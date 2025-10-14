@@ -20,7 +20,8 @@ Currently, I develop solutions using **Python**, **LangGraph**, and **FastAPI**,
 ### 🏗️ Featured Projects
 
 - **[Remy.AI](https://remy-ai.com/)** – Fraud-prevention chatbot integrated with WhatsApp & Telegram  
-- **[ML Model Factory](https://github.com/Fugant1/ml-model-factory)** – Automated ML pipeline with MLflow  
+- **[ML Model Factory](https://github.com/Fugant1/ml-model-factory)** – Automated ML pipeline with MLflow
+- **[ML-TutorBot](https://github.com/Fugant1/ML-TutorBot)** – DS/ML Tutor chatbot with RAG and code interpreter
 - **[AgentSwarm](https://github.com/Fugant1/AgentSwarm)** – Multi-agent system with RAG for complex automation  
 - **[Milk Price Forecast](https://github.com/Fugant1/AnalyPrevMilk/blob/main/AnaliseLeite.ipynb)** – 98.9% accurate RandomForest forecasting model  
 
