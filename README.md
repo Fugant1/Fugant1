@@ -25,9 +25,10 @@ I'm an **AI Engineer** and **Data Science undergraduate** at **USP**, currently 
 
 ### 🛠️ Tech Stack
 
-- **Core:** Python, SQL, C++, Java, C, Javascript
+- **Core:** Python, C++, Java, C, Javascript
 - **AI, NLP & ML:** LangGraph, LangChain, Transformers, PyTorch, RAG, OpenAI/Gemini APIs, TensorFlow, Scikit-learn
-- **Ops & Cloud:** Docker, MLflow, AWS, Azure, FastAPI 
+- **Ops & Cloud:** Docker, MLflow, AWS, Azure, FastAPI
+- **Databases:** SQL (PostgreSQL, MySQL), NoSQL
 
 ---
 
