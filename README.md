@@ -2,7 +2,9 @@
 
 ### 👋 Hello!
 
-I'm an **AI Engineer** and **Data Science undergraduate** at **USP**, currently working remotely for **EstateBotics (Germany)** and co-founding **Remy.AI**. I specialize in **NLP**, **Generative AI**, and **Multi-Agent Systems**.
+I build AI-powered backend systems and LLM applications, with experience spanning RAG pipelines, multi-agent workflows, NLP, and cloud infrastructure.
+ 
+My work focuses on turning research-driven AI ideas into reliable products, including fraud detection systems, enterprise messaging platforms, and Text-to-SQL agents. I’ve worked across both startup and research environments, contributing to deployed systems as well as published NLP research accepted at SemEval 2026 (ACL Workshop).
 
 ---
 
@@ -17,6 +19,7 @@ I'm an **AI Engineer** and **Data Science undergraduate** at **USP**, currently 
 ### 🏗️ Key Projects
 
 - **[Remy.AI](https://remy-ai.com/)** – Real-time fraud detection chatbot for WhatsApp & Telegram using NLP and LLMs.
+- **[TextToInsight](https://github.com/gruporaia/TextToInsight)** - Text-To-SQL library with a next step of insight, include RAG pipelines to filter Schema databases and rn aim to Host local models to achieve big results at low costs.
 - **[Unfaker](https://github.com/Fugant1/Unfaker)** – Chrome extension for fake news detection using Transformers.
 - **[ML-TutorBot](https://github.com/Fugant1/ML-TutorBot)** – Multilingual RAG tutor with code interpretation; reduced learning time by ~20%.
 - **[ML Model Factory](https://github.com/Fugant1/ml-model-factory)** – Automated MLOps pipeline using MLflow & Docker; reduced Data Scientist setup time by 33%.
@@ -25,10 +28,10 @@ I'm an **AI Engineer** and **Data Science undergraduate** at **USP**, currently 
 
 ### 🛠️ Tech Stack
 
-- **Core:** Python, C++, Java, C, Javascript
-- **AI, NLP & ML:** LangGraph, LangChain, Transformers, PyTorch, RAG, OpenAI/Gemini APIs, TensorFlow, Scikit-learn
+- **Core:** Python, C++, R, Java, C, Javascript
+- **AI, NLP & ML:** LangGraph, LangChain, Transformers, PyTorch, RAG, OpenAI/Gemini APIs, TensorFlow, Scikit-learn, PEFT, TRL, vLLM, Unsloth, HuggingFace
 - **Ops & Cloud:** Docker, MLflow, AWS, Azure, FastAPI
-- **Databases:** SQL (PostgreSQL, MySQL), NoSQL
+- **Databases:** SQL (PostgreSQL, MySQL), NoSQL (DynamoDB, SQLite)
 
 ---
 
