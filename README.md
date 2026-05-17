@@ -1,4 +1,4 @@
-## 👨‍💻 AI Engineer | Data Scientist | Julio Fuganti
+## 👨‍💻 AI/ML Engineer | Data Scientist | Julio Fuganti
 
 ### 👋 Hello!
 
