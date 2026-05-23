@@ -19,7 +19,7 @@ My work focuses on turning research-driven AI ideas into reliable products, incl
 ### 🏗️ Key Projects
 
 - **[Remy.AI](https://remy-ai.com/)** – Real-time fraud detection chatbot for WhatsApp & Telegram using NLP and LLMs.
-- **[TextToInsight](https://github.com/gruporaia/TextToInsight)** - Text-To-SQL library with a next step of insight, include GraphRAG pipelines to filter Schema databases and rn aim to Host local models to achieve big results at low costs.
+- **[TextToInsight](https://github.com/gruporaia/TextToInsight)** - Text-To-SQL library with a next step of insight, include GraphRAG pipelines to filter Schema databases and rn aim to Host local models to achieve big results at low costs. Reduced the tokens usage in ~25% using GraphRAG.
 - **[Unfaker](https://github.com/Fugant1/Unfaker)** – Chrome extension for fake news detection using Transformers.
 - **[ML-TutorBot](https://github.com/Fugant1/ML-TutorBot)** – Multilingual RAG tutor with code interpretation; reduced learning time by ~20%.
 - **[ML Model Factory](https://github.com/Fugant1/ml-model-factory)** – Automated MLOps pipeline using MLflow & Docker; reduced Data Scientist setup time by 33%.
