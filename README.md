@@ -31,7 +31,7 @@ My work focuses on turning research-driven AI ideas into reliable products, incl
 - **Core:** Python, C++, R, Java, C, Javascript
 - **AI, NLP & ML:** LangGraph, LangChain, Transformers, PyTorch, RAG, OpenAI/Gemini APIs, TensorFlow, Scikit-learn, PEFT, TRL, vLLM, Unsloth, HuggingFace
 - **Ops & Cloud:** Docker, MLflow, AWS, Azure, FastAPI
-- **Databases:** SQL (PostgreSQL, MySQL), NoSQL (DynamoDB, SQLite)
+- **Databases:** SQL (PostgreSQL, MySQL, SQLite), NoSQL (DynamoDB)
 
 ---
 
