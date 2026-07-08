@@ -10,7 +10,7 @@ My work focuses on turning research-driven AI ideas into reliable products, incl
 
 ### 🚀 At a Glance
 
-- 💼 **Current:** AI Engineer @ EstateBotics & Co-Founder @ Remy.AI
+- 💼 **Current:** AI Engineer @ RAIA & Co-Founder @ Remy.AI
 - 🎓 **Education:** Data Science at **University of São Paulo (USP)** & **Harvard Computer Science in Brazil** at Fundação Estudar.
 - 🛡️ **Focus:** Architecting scalable RAG pipelines, NLP agents, and production-grade ML systems.
 
