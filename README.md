@@ -47,10 +47,10 @@ Python, C/C++, Rust, TypeScript, JavaScript, SQL
 LLMs, RAG, Multi-Agent Systems, NLP, Multimodal AI, Machine Learning, PyTorch, TensorFlow, Scikit-learn, Transformers, Fine-tuning
 
 **AI Frameworks:**  
-LangGraph, LangChain, Hugging Face, FastAPI
+LangGraph, LangChain, Hugging Face, vLLM, Unsloth
 
 **Data & Infrastructure:**  
-PostgreSQL, Redis, ChromaDB, Docker, RabbitMQ, H3, REST APIs
+PostgreSQL, Redis, ChromaDB, Docker, RabbitMQ, H3, REST APIs, FastAPI
 
 **Cloud & MLOps:**  
 AWS, Azure, MLflow, CI/CD, Experiment Tracking, Model Evaluation
