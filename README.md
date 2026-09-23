@@ -22,7 +22,7 @@ My work spans both **research and product engineering**, from multilingual NLP r
 ### 🔬 Research
 
 - **[SemEval-2026 Task 9](https://aclanthology.org/2026.semeval-1.401/)** — Developed a selective multilingual and multitask specialization approach for online polarization detection in collaboration with the **ALGORITMI Centre, University of Minho**. Ranked **7th/16** among complete multilingual systems.
-- **TextToInsight** — Research and engineering on multi-agent Text-to-SQL systems using LangGraph, specialized agents, iterative self-correction, and Human-in-the-Loop interaction.
+- **[TextToInsight](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/44113/43876)** — Research and engineering on multi-agent Text-to-SQL systems using LangGraph, specialized agents, iterative self-correction, and Human-in-the-Loop interaction.
 - **Large Audio Language Models for Emotion Recognition** — Comparative evaluation of Audio Flamingo 3, Qwen2.5-Omni, and WhisperX + Mistral-7B across MELD and IEMOCAP, studying prompting, accuracy, latency, VRAM, and computational trade-offs.
 
 ---
