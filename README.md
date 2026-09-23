@@ -11,7 +11,7 @@ My work spans both **research and product engineering**, from multilingual NLP r
 ### 🚀 At a Glance
 
 - 💼 **Co-Founder & AI/ML Engineer @ [Remy.AI](https://remy-ai.com/)** — AI-powered fraud prevention through WhatsApp & Telegram.
-- 🚀 **Co-Founder & Software/ML Engineer @ Houmy** — Building an Uber-like platform with Rust-based geospatial matchmaking and distributed backend systems.
+- 🚀 **Co-Founder & Software/ML Engineer @ [Houmy](https://houmy.tech/)** — Building an Uber-like platform with Rust-based geospatial matchmaking and distributed backend systems.
 - 🔬 **Research:** SemEval 2026, ALGORITMI Centre / University of Minho, RAIA & LABIC @ ICMC-USP.
 - 🎓 **Education:** B.Sc. Data Science at **University of São Paulo (USP)**, with an emphasis on Artificial Intelligence.
 - 🏆 **SemEval 2026:** Co-authored a published system description paper; ranked **7th/16** among complete multilingual systems.
